@@ -39,8 +39,7 @@ Em seguida, corte/otimize/edite sua imagem como desejar, adicione-a ao seu proje
 
 ###Links
 
-- URL da solução: [Adicione o URL da solução aqui](https://your-solution-url.com)
-- URL do site ativo: [Adicione o URL do site ativo aqui](https://your-live-site-url.com)
+- URL da solução: [Solução do desafio aqui](https://claudio-l-borges.github.io/Hunddle/)
 
 ## Meu processo
 
@@ -69,7 +68,7 @@ Para ver como você pode adicionar trechos de código, veja abaixo:
 
 ## Autor
 
-- Site - [Adicione seu nome aqui](https://www.seu-site.com)
+- Site - [Hunddle](https://claudio-l-borges.github.io/Hunddle/)
 - Mentor de Frontend - [@Cláudio-L-Borges](https://www.frontendmentor.io/profile/seunomedeusuario)
 - Linkedin - [@Claudio Borges](https://www.linkedin.com/in/claudio-borges-a189b8316/)
 
