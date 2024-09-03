@@ -27,7 +27,7 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-![Imagem da solução do meu desafio](image.png)
+![Imagem da solução do meu desafio](./src/images/image.png)
 
 Adicione uma captura de tela da sua solução. A maneira mais fácil de fazer isso é usar o Firefox para visualizar seu projeto, clicar com o botão direito na página e selecionar “Fazer uma captura de tela”. Você pode escolher uma captura de tela de altura total ou cortada com base no comprimento da página. Se for muito longo, talvez seja melhor cortá-lo.
 
