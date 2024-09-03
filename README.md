@@ -29,8 +29,7 @@ Os usuários devem ser capazes de:
 
 ![Imagem da solução do meu desafio](./src/images/image.png)
 
-
-###Links
+### Links
 
 - URL da solução: [Solução do desafio aqui](https://claudio-l-borges.github.io/Hunddle/)
 
